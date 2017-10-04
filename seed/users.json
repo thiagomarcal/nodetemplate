@@ -1,0 +1,374 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "monsieur",
+        "first": "morgan",
+        "last": "morin"
+      },
+      "location": {
+        "street": "3551 avenue de la république",
+        "city": "mézières vd",
+        "state": "obwalden",
+        "postcode": 4380
+      },
+      "email": "morgan.morin@example.com",
+      "login": {
+        "username": "heavybear638",
+        "password": "gabriela",
+        "salt": "201WPfmW",
+        "md5": "f300008ce952485689e6e1f765461282",
+        "sha1": "3a25d3fbe8bd6ea607a13324c899af71b836227b",
+        "sha256": "009e8c7ea98deca5aa7ad8b030388ea0e545f955079ba6f9e8c49d98b99ce746"
+      },
+      "dob": "1965-03-24 08:33:01",
+      "registered": "2011-07-20 15:40:04",
+      "phone": "(443)-131-4614",
+      "cell": "(960)-769-0959",
+      "id": {
+        "name": "AVS",
+        "value": "756.EPWU.ZCHL.88"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/97.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/97.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/97.jpg"
+      },
+      "nat": "CH"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "ms",
+        "first": "marilou",
+        "last": "durand"
+      },
+      "location": {
+        "street": "9442 rue de l'abbé-groult",
+        "city": "nantes",
+        "state": "nièvre",
+        "postcode": 96307
+      },
+      "email": "marilou.durand@example.com",
+      "login": {
+        "username": "silvergoose171",
+        "password": "billy1",
+        "salt": "joDs5DkS",
+        "md5": "c18da0b0a406c427423f47f81745dda3",
+        "sha1": "9393bc24331024834163afec54a93bfddd7424ed",
+        "sha256": "7e7d4cf583c22277a4478177ddf13c271bd67f8a07f512da6bbf587c79de3b78"
+      },
+      "dob": "1953-08-27 02:39:44",
+      "registered": "2012-06-08 16:06:34",
+      "phone": "02-42-31-63-93",
+      "cell": "06-96-37-59-35",
+      "id": {
+        "name": "INSEE",
+        "value": "253763651563 21"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/5.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/5.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/5.jpg"
+      },
+      "nat": "FR"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "ms",
+        "first": "ida",
+        "last": "hanson"
+      },
+      "location": {
+        "street": "7975 hogan st",
+        "city": "seagoville",
+        "state": "louisiana",
+        "postcode": 27620
+      },
+      "email": "ida.hanson@example.com",
+      "login": {
+        "username": "blackbear696",
+        "password": "pablo",
+        "salt": "HduxBYdr",
+        "md5": "3a6f871edc8dbf800768acce19fee196",
+        "sha1": "143ad98032d91dfdeb2fa9099a906c3e4e178a5b",
+        "sha256": "a4326e111fdfae2f419a1fce6291cfe85888e8d8840ad2a4c5f30b18c20f64d0"
+      },
+      "dob": "1992-12-16 18:21:19",
+      "registered": "2009-11-15 05:45:11",
+      "phone": "(800)-863-7903",
+      "cell": "(899)-178-4710",
+      "id": {
+        "name": "SSN",
+        "value": "805-74-2449"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/76.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/76.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/76.jpg"
+      },
+      "nat": "US"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "ms",
+        "first": "terry",
+        "last": "owens"
+      },
+      "location": {
+        "street": "5188 cackson st",
+        "city": "tweed",
+        "state": "victoria",
+        "postcode": 2865
+      },
+      "email": "terry.owens@example.com",
+      "login": {
+        "username": "yellowelephant517",
+        "password": "squall",
+        "salt": "k2VTcbMZ",
+        "md5": "18dfb003ab4cfdc540cab3469416f6fc",
+        "sha1": "983b639c10546b32518806d55c02d6621bf74e50",
+        "sha256": "d54a09414e59121a91ac0c4d744196dd84f914a664db499e9dee2debf739a8f7"
+      },
+      "dob": "1956-05-21 05:09:05",
+      "registered": "2012-08-07 16:13:14",
+      "phone": "06-0439-3219",
+      "cell": "0468-950-354",
+      "id": {
+        "name": "TFN",
+        "value": "023823637"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/27.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/27.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/27.jpg"
+      },
+      "nat": "AU"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "miss",
+        "first": "ellen",
+        "last": "fischer"
+      },
+      "location": {
+        "street": "7437 lindenstraße",
+        "city": "friesland",
+        "state": "hessen",
+        "postcode": 74447
+      },
+      "email": "ellen.fischer@example.com",
+      "login": {
+        "username": "orangelion887",
+        "password": "cheeks",
+        "salt": "ZMomIsoe",
+        "md5": "bd46b057df9feedadd8e50a4fc0fa0d7",
+        "sha1": "7593f33f3759b32002eeae931fb003b9b664e4b6",
+        "sha256": "1b30124b667ddc9c2c8230bedc20e36d9bf6e7102ddd5715391844074048d5be"
+      },
+      "dob": "1984-12-07 07:17:54",
+      "registered": "2003-06-08 20:22:25",
+      "phone": "0326-1963607",
+      "cell": "0178-9236001",
+      "id": {
+        "name": "",
+        "value": null
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/53.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/53.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/53.jpg"
+      },
+      "nat": "DE"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "miss",
+        "first": "danielle",
+        "last": "george"
+      },
+      "location": {
+        "street": "9989 mockingbird ln",
+        "city": "hialeah",
+        "state": "mississippi",
+        "postcode": 22840
+      },
+      "email": "danielle.george@example.com",
+      "login": {
+        "username": "ticklishleopard170",
+        "password": "12312312",
+        "salt": "GDLRhN28",
+        "md5": "014c47e8cfdf9fb378437967da596ada",
+        "sha1": "3d6cdd3402631f23b56190115b6a82fe8067a033",
+        "sha256": "bf956f5126ff92829815e986b4ebd2c5e4ea0dfe62279a887e86b3f312560beb"
+      },
+      "dob": "1982-12-03 11:01:44",
+      "registered": "2014-11-15 12:23:57",
+      "phone": "(654)-179-4218",
+      "cell": "(553)-847-3736",
+      "id": {
+        "name": "SSN",
+        "value": "054-62-6907"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/78.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/78.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/78.jpg"
+      },
+      "nat": "US"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "mrs",
+        "first": "samantha",
+        "last": "chapman"
+      },
+      "location": {
+        "street": "1730 the green",
+        "city": "st albans",
+        "state": "lothian",
+        "postcode": "Y1Q 4TL"
+      },
+      "email": "samantha.chapman@example.com",
+      "login": {
+        "username": "orangegoose243",
+        "password": "mature",
+        "salt": "wylUCH1k",
+        "md5": "2934aa0cb58af5d2a4d2ad06e87f5a94",
+        "sha1": "a1509e5d4e60caab8d75c08e6bf09128985ad33f",
+        "sha256": "5eb94d1b6865f3cc73f557f8f1a8cbd5e6e8d4a6567201c404ab2f372ad36cc6"
+      },
+      "dob": "1983-10-14 03:20:20",
+      "registered": "2008-10-08 20:36:02",
+      "phone": "01413 54293",
+      "cell": "0782-966-804",
+      "id": {
+        "name": "NINO",
+        "value": "YB 36 88 30 D"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/64.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/64.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/64.jpg"
+      },
+      "nat": "GB"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "ms",
+        "first": "gina",
+        "last": "veldmeijer"
+      },
+      "location": {
+        "street": "1246 f.c. dondersstraat",
+        "city": "enschede",
+        "state": "zuid-holland",
+        "postcode": 89888
+      },
+      "email": "gina.veldmeijer@example.com",
+      "login": {
+        "username": "lazyleopard654",
+        "password": "original",
+        "salt": "hWCIhSTG",
+        "md5": "0e6735cbaa969381e9feefe0a6f803aa",
+        "sha1": "eea892e1fd8f9c2e739d8821436d70a68c80104d",
+        "sha256": "bbd17e9a8b59937165bc3b4f410fea3f8f17d439d6dfa64f0d7bc9d666fd63f9"
+      },
+      "dob": "1962-01-14 02:44:53",
+      "registered": "2012-08-23 08:48:21",
+      "phone": "(179)-543-5512",
+      "cell": "(856)-410-3863",
+      "id": {
+        "name": "BSN",
+        "value": "55413610"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/38.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/38.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/38.jpg"
+      },
+      "nat": "NL"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "mademoiselle",
+        "first": "margaux",
+        "last": "rousseau"
+      },
+      "location": {
+        "street": "9780 rue de l'abbé-de-l'épée",
+        "city": "cugy vd",
+        "state": "basel-landschaft",
+        "postcode": 1964
+      },
+      "email": "margaux.rousseau@example.com",
+      "login": {
+        "username": "blackpeacock766",
+        "password": "gangster",
+        "salt": "QwZRyqvz",
+        "md5": "c681559044d4c146583eec6bc5113375",
+        "sha1": "0f5b64f318dcbe4b6b0f29baa0874746a6491b6a",
+        "sha256": "fd11ddb33d78a570ab1353a135242de4240181950134d2e251b3e7392db9d5a8"
+      },
+      "dob": "1973-11-28 12:57:51",
+      "registered": "2015-02-09 23:16:09",
+      "phone": "(722)-941-2459",
+      "cell": "(389)-819-6186",
+      "id": {
+        "name": "AVS",
+        "value": "756.JPKP.YQDM.92"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/27.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/27.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/27.jpg"
+      },
+      "nat": "CH"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "mrs",
+        "first": "samantha",
+        "last": "cook"
+      },
+      "location": {
+        "street": "8017 killarney road",
+        "city": "longford",
+        "state": "monaghan",
+        "postcode": 49397
+      },
+      "email": "samantha.cook@example.com",
+      "login": {
+        "username": "redmeercat472",
+        "password": "runaway",
+        "salt": "mvVnPAzF",
+        "md5": "9d32782e266ea00b748d1b6035fe2226",
+        "sha1": "9fed4ff40db2bcbaa346aeae6fc2a5d58e244fbb",
+        "sha256": "4b82432b91a0e51f7ba77a9b52ccf56b2bd29e274c68fd1e3b0a52d7916cc81c"
+      },
+      "dob": "1980-12-13 08:07:29",
+      "registered": "2009-02-07 04:44:33",
+      "phone": "021-380-1928",
+      "cell": "081-313-4968",
+      "id": {
+        "name": "PPS",
+        "value": "8358528T"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/73.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/73.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/73.jpg"
+      },
+      "nat": "IE"
+    }
+  ]
+}

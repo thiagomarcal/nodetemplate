@@ -1,16 +1,16 @@
-var express = require('express');
-var router = express.Router();
-var todoModel = require('../models/todo');
-var log4js = require('log4js');
+const express = require('express');
+const router = express.Router();
+const todoModel = require('../models/todo');
+const log4js = require('log4js');
 
-var logger = log4js.getLogger();
+const logger = log4js.getLogger();
 
 /* GET seed listing. */
-router.get('/seed', function(req, res, next) {
+router.get('/seed', function(req, res) {
 
 	logger.info(req.baseUrl + req.route.path);
 
-	var todos = [{
+	const todos = [{
 		message: "teste1",
 		createdAt: new Date(),
 		updatedAt: new Date()
@@ -36,7 +36,7 @@ router.get('/seed', function(req, res, next) {
 });
 
 /* GET listing. */
-router.get('/', function(req, res, next) {
+router.get('/', function(req, res) {
 
 	logger.info(req.baseUrl + req.route.path);
 
@@ -51,11 +51,11 @@ router.get('/', function(req, res, next) {
 });
 
 /* GET field*/
-router.get('/:message', function(req, res, next) {
+router.get('/:message', function(req, res) {
 
 	logger.info(req.baseUrl + req.route.path);
 
-	var msg = req.params.message;
+	const msg = req.params.message;
 	todoModel.find({
 		message: msg
 	}, function(err, response) {
@@ -70,11 +70,11 @@ router.get('/:message', function(req, res, next) {
 
 
 /* POST */
-router.post('/', function(req, res, next) {
+router.post('/', function(req, res) {
 
 	logger.info(req.baseUrl + req.route.path);
 
-	var todo = req.body;
+	const todo = req.body;
 	todoModel.create(todo, function(err, response) {
 		if (err) {
 			logger.error(err);
@@ -87,12 +87,12 @@ router.post('/', function(req, res, next) {
 
 
 /* PUT */
-router.put('/:id', function(req, res, next) {
+router.put('/:id', function(req, res) {
 
 	logger.info(req.baseUrl + req.route.path);
 
-	var id = req.params.id;
-	var todo = req.body;
+	const id = req.params.id;
+	const todo = req.body;
 	todoModel.findByIdAndUpdate(id, todo, {
 		new: true
 	}, function(err, response) {
@@ -106,11 +106,11 @@ router.put('/:id', function(req, res, next) {
 });
 
 /* DELETE */
-router.delete('/', function(req, res, next) {
+router.delete('/', function(req, res) {
 
 	logger.info(req.baseUrl + req.route.path);
 
-	var id = req.body.id;
+	const id = req.body.id;
 	todoModel.findByIdAndRemove(id, function(err, response) {
 		if (err) {
 			logger.error(err);
@@ -128,7 +128,6 @@ function returnErrorMessage(err, res) {
 		code: 500,
 		message: err.message
 	});
-	return;
 }
 
 

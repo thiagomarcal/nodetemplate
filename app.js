@@ -1,14 +1,14 @@
-var express = require('express');
-var path = require('path');
-var cookieParser = require('cookie-parser');
-var bodyParser = require('body-parser');
-var router = express.Router();
-var users = require('./routes/users');
-var todos = require('./routes/todos');
-var mongoose = require('mongoose');
+const express = require('express');
+const path = require('path');
+const cookieParser = require('cookie-parser');
+const bodyParser = require('body-parser');
+const router = express.Router();
+const users = require('./routes/users');
+const todos = require('./routes/todos');
+const mongoose = require('mongoose');
 
 
-var log4js = require('log4js');
+const log4js = require('log4js');
 
 log4js.configure({
   appenders: [
@@ -17,11 +17,11 @@ log4js.configure({
   ]
 });
 
-var logger = log4js.getLogger();
+const logger = log4js.getLogger();
 
-var app = express();
+const app = express();
 
-mongoose.connect('mongodb://localhost/teste', {server: { poolSize: 10 }});
+mongoose.connect('mongodb://localhost/thiago', {server: { poolSize: 10 }});
 
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
