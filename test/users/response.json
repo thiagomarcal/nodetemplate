@@ -1,0 +1,148 @@
+{
+
+  "user" : {
+    "_id": "59d2c7fe8bb5eb5aadc36a36",
+    "gender": "male",
+    "dob": "1965-03-24T11:33:01.000Z",
+    "registered": "2011-07-20T18:40:04.000Z",
+    "phone": "(443)-131-4614",
+    "cell": "(960)-769-0959",
+    "nat": "CH",
+    "__v": 0,
+    "updatedAt": "2017-10-02T23:13:02.062Z",
+    "createdAt": "2017-10-02T23:13:02.062Z",
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/97.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/97.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/97.jpg"
+    },
+    "login": {
+      "username": "heavybear638",
+      "password": "gabriela",
+      "salt": "201WPfmW",
+      "md5": "f300008ce952485689e6e1f765461282",
+      "sha1": "3a25d3fbe8bd6ea607a13324c899af71b836227b",
+      "sha256": "009e8c7ea98deca5aa7ad8b030388ea0e545f955079ba6f9e8c49d98b99ce746"
+    },
+    "location": {
+      "street": "3551 avenue de la république",
+      "city": "mézières vd",
+      "state": "obwalden",
+      "postcode": "4380"
+    },
+    "name": {
+      "title": "monsieur",
+      "first": "morgan",
+      "last": "morin"
+    }
+  },
+
+  "users" : [{
+    "_id": "59d2c7fe8bb5eb5aadc36a36",
+    "gender": "male",
+    "dob": "1965-03-24T11:33:01.000Z",
+    "registered": "2011-07-20T18:40:04.000Z",
+    "phone": "(443)-131-4614",
+    "cell": "(960)-769-0959",
+    "nat": "CH",
+    "__v": 0,
+    "updatedAt": "2017-10-02T23:13:02.062Z",
+    "createdAt": "2017-10-02T23:13:02.062Z",
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/97.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/97.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/97.jpg"
+    },
+    "login": {
+      "username": "heavybear638",
+      "password": "gabriela",
+      "salt": "201WPfmW",
+      "md5": "f300008ce952485689e6e1f765461282",
+      "sha1": "3a25d3fbe8bd6ea607a13324c899af71b836227b",
+      "sha256": "009e8c7ea98deca5aa7ad8b030388ea0e545f955079ba6f9e8c49d98b99ce746"
+    },
+    "location": {
+      "street": "3551 avenue de la république",
+      "city": "mézières vd",
+      "state": "obwalden",
+      "postcode": "4380"
+    },
+    "name": {
+      "title": "monsieur",
+      "first": "morgan",
+      "last": "morin"
+    }
+  },
+    {
+      "_id": "59d2c7fe8bb5eb5aadc36a37",
+      "gender": "female",
+      "dob": "1953-08-27T05:39:44.000Z",
+      "registered": "2012-06-08T19:06:34.000Z",
+      "phone": "02-42-31-63-93",
+      "cell": "06-96-37-59-35",
+      "nat": "FR",
+      "__v": 0,
+      "updatedAt": "2017-10-02T23:13:02.069Z",
+      "createdAt": "2017-10-02T23:13:02.069Z",
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/5.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/5.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/5.jpg"
+      },
+      "login": {
+        "username": "silvergoose171",
+        "password": "billy1",
+        "salt": "joDs5DkS",
+        "md5": "c18da0b0a406c427423f47f81745dda3",
+        "sha1": "9393bc24331024834163afec54a93bfddd7424ed",
+        "sha256": "7e7d4cf583c22277a4478177ddf13c271bd67f8a07f512da6bbf587c79de3b78"
+      },
+      "location": {
+        "street": "9442 rue de l'abbé-groult",
+        "city": "nantes",
+        "state": "nièvre",
+        "postcode": "96307"
+      },
+      "name": {
+        "title": "ms",
+        "first": "marilou",
+        "last": "durand"
+      }
+    },
+    {
+      "_id": "59d2c7fe8bb5eb5aadc36a38",
+      "gender": "female",
+      "dob": "1992-12-16T20:21:19.000Z",
+      "registered": "2009-11-15T07:45:11.000Z",
+      "phone": "(800)-863-7903",
+      "cell": "(899)-178-4710",
+      "nat": "US",
+      "__v": 0,
+      "updatedAt": "2017-10-02T23:13:02.070Z",
+      "createdAt": "2017-10-02T23:13:02.070Z",
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/76.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/76.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/76.jpg"
+      },
+      "login": {
+        "username": "blackbear696",
+        "password": "pablo",
+        "salt": "HduxBYdr",
+        "md5": "3a6f871edc8dbf800768acce19fee196",
+        "sha1": "143ad98032d91dfdeb2fa9099a906c3e4e178a5b",
+        "sha256": "a4326e111fdfae2f419a1fce6291cfe85888e8d8840ad2a4c5f30b18c20f64d0"
+      },
+      "location": {
+        "street": "7975 hogan st",
+        "city": "seagoville",
+        "state": "louisiana",
+        "postcode": "27620"
+      },
+      "name": {
+        "title": "ms",
+        "first": "ida",
+        "last": "hanson"
+      }
+    }]
+}

@@ -1,0 +1,6 @@
+{
+  "logfile" : "logs/nodetemplate.log",
+  "mongo_url": "mongodb://localhost/thiago",
+  "mongo_pullsize": 10,
+  "server_url" : "http://localhost:3000/api/v1"
+}
